@@ -6,7 +6,7 @@ You are given a small system — a parking lot, a wallet, a rate limiter — and
 
 ### 1.1 Good vs Excellent - Isse generally interviewer khush ho jata h
 
-| Dimension       | Good expectation                                                | Excellent                                                                                                       |
+| Dimension       | Good                                                            | Excellent                                                                                                       |
 | --------------- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | Requirements    | Clarifies scope, lists functional requirements                  | Also identifies non-functional constraints (concurrency, extensibility, failure modes) unprompted               |
 | Entity modeling | Correct classes, sensible relationships                         | Justifies composition vs inheritance choices, models for change ("payment methods will grow, so Strategy here") |
