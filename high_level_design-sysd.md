@@ -4,7 +4,7 @@
 
 Disclaimer - thoughts are my own. Trust carefully.
 
-### SDE-2 expectations
+### Good answers
 
 | Signal          | What "good" looks like                                                                   |
 | --------------- | ---------------------------------------------------------------------------------------- |
@@ -16,7 +16,7 @@ Disclaimer - thoughts are my own. Trust carefully.
 | Depth           | Goes deep in 1–2 areas **when prompted** by the interviewer                              |
 | Communication   | Keeps a legible diagram; doesn't need rescuing more than once or twice                   |
 
-### Senior expectations
+### Excellent answers
 
 Everything above, **plus**:
 
